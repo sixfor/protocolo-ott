@@ -1,0 +1,14 @@
+1. ¿Solo la solicitud debe esperar 10 días para ser aprobada, o la cuenta de usuario también?
+2. ¿El link de la ventanilla redirecciona al usuario al login o a la ficha de suscripción?
+3. ¿Es posible colocar una imagen en la ventanilla de inicio (login) de fondo?
+4. ¿La contraseña debe ser generada automaticamente o creada por el usuario?
+5.
+
+VENTANILLA
+-correos para todos lados
+-completar informacion al redirijir
+-preguntas frecuentes
+marcar campos obligatorios
+informe de la cantidad de requerimientos que hay, los respondidos, pendientes, aceptados y rechazados
+
+8c1b7c3bd723e4f7c6c7204a64ff82e7

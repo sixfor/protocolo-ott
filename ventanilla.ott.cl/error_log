@@ -1,0 +1,25 @@
+[04-Sep-2017 17:49:40 UTC] PHP Notice:  Undefined index: user_ott in /home/a3nh46kd2/ventanilla.ott.cl/public/layouts/admin/sidebar.php on line 2
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 37
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 38
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 64
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 66
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 69
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 82
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 37
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 38
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 64
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 66
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 69
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 82
+[04-Sep-2017 17:49:40 UTC] PHP Notice:  Undefined index: user_ott in /home/a3nh46kd2/ventanilla.ott.cl/public/layouts/admin/sidebar.php on line 9
+[04-Sep-2017 17:49:40 UTC] PHP Notice:  Undefined index: user_ott in /home/a3nh46kd2/ventanilla.ott.cl/public/layouts/admin/sidebar.php on line 12
+[04-Sep-2017 17:49:40 UTC] PHP Notice:  Undefined index: user_ott in /home/a3nh46kd2/ventanilla.ott.cl/public/layouts/admin/sidebar.php on line 13
+[04-Sep-2017 17:49:40 UTC] PHP Notice:  Undefined index: user_ott in /home/a3nh46kd2/ventanilla.ott.cl/public/layouts/admin/welcome.php on line 3
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 37
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 38
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 64
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 66
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 69
+[04-Sep-2017 17:49:40 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/a3nh46kd2/ventanilla.ott.cl/models/class.conexion.php on line 82
+[04-Sep-2017 17:49:40 UTC] PHP Notice:  Undefined index: user_ott in /home/a3nh46kd2/ventanilla.ott.cl/public/layouts/admin/welcome.php on line 30
+[04-Sep-2017 17:49:40 UTC] PHP Notice:  Undefined index: user_ott in /home/a3nh46kd2/ventanilla.ott.cl/public/layouts/admin/welcome.php on line 30

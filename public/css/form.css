@@ -1,0 +1,29 @@
+.form-register {
+  margin-top: 30px;
+  background-color: white;
+  border: 3px solid rgba(0,0,0,0.1);
+	padding: 20px 0px 20px;
+}
+.form-register h3 {
+  margin-left: 10px;
+}
+.form-register input, .form-register select {
+  height: 35px;
+  font-size: 13px;
+  padding: 5px 10px;
+}
+.form-register textarea {
+  font-size: 13px;
+}
+.form-register a {
+  padding: 10px;
+}
+
+/* ALERT FLOATING */
+.alert-floating {
+  width: 70%;
+  margin-top: 50px;
+  position: fixed;
+  top: 0;
+  left: 15%;
+}

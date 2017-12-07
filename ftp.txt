@@ -1,0 +1,7 @@
+ACCESO A SU CUENTA:
+Servicio Contratado: Hosting_Basico
+IP del Servidor: 190.96.85.5
+Usuario: ottcl
+Password: 3fYY27ipb9
+Cpanel: http://ott.cl/cpanel o http://190.96.85.5/cpanel
+Host para FTP: 190.96.85.5 o ftp.ott.cl

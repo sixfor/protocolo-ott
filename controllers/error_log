@@ -1,0 +1,19 @@
+[13-Sep-2017 17:28:21 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.consulta.php on line 30
+[13-Sep-2017 14:42:14 America/Santiago] PHP Warning:  unlink(../public/documents/4_2017-09-13-14-41-17png): No such file or directory in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.consulta.php on line 229
+[13-Sep-2017 20:34:27 UTC] PHP Notice:  Undefined index: password_contacto in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php on line 565
+[13-Sep-2017 20:34:27 UTC] PHP Notice:  Undefined index: password_contacto in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php on line 579
+[13-Sep-2017 20:34:27 UTC] PHP Notice:  Undefined index: password_contacto in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php on line 615
+[13-Sep-2017 20:38:13 UTC] PHP Notice:  Undefined index: password_contacto in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php on line 616
+[13-Sep-2017 20:38:50 UTC] PHP Notice:  Undefined index: password_contacto in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php on line 616
+[13-Sep-2017 20:40:15 UTC] PHP Notice:  Undefined index: password_contacto in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php on line 616
+[13-Sep-2017 20:40:26 UTC] PHP Notice:  Undefined index: password_contacto in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php on line 616
+[13-Sep-2017 20:40:38 UTC] PHP Notice:  Undefined index: password_contacto in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php on line 616
+[13-Sep-2017 20:41:30 UTC] PHP Notice:  Undefined index: password_contacto in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php on line 616
+[13-Sep-2017 17:41:30 America/Santiago] PHP Notice:  Undefined variable: defaultPassword in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php on line 634
+[13-Sep-2017 20:41:58 UTC] PHP Notice:  Undefined index: password_contacto in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php on line 616
+[13-Sep-2017 17:41:58 America/Santiago] PHP Notice:  Undefined variable: defaultPassword in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php on line 634
+[13-Sep-2017 21:11:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Accion' not found in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.accion.php:7
+Stack trace:
+#0 /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.ficha.php(796): getAccionesOnModulo('3', 3)
+#1 {main}
+  thrown in /home/a3nh46kd2/ventanilla.ott.cl/controllers/controller.accion.php on line 7

@@ -1,0 +1,78 @@
+body {
+	background: rgba(100,210,96,1);
+	background: -moz-linear-gradient(45deg, rgba(100,210,96,1) 0%, rgba(57,200,240,1) 100%);
+	background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(100,210,96,1)), color-stop(100%, rgba(57,200,240,1)));
+	background: -webkit-linear-gradient(45deg, rgba(100,210,96,1) 0%, rgba(57,200,240,1) 100%);
+	background: -o-linear-gradient(45deg, rgba(100,210,96,1) 0%, rgba(57,200,240,1) 100%);
+	background: -ms-linear-gradient(45deg, rgba(100,210,96,1) 0%, rgba(57,200,240,1) 100%);
+	background: linear-gradient(45deg, rgba(100,210,96,1) 0%, rgba(57,200,240,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#64d260', endColorstr='#39c8f0', GradientType=1 );
+}
+.cont-login {
+	margin-top: 30px;
+  background-color: white;
+  border: 3px solid rgba(0,0,0,0.1);
+	padding: 20px 0px 20px;
+}
+
+.form-signin {
+  max-width: 420px;
+  margin: 20px auto;
+  padding: 30px 38px 66px;
+}
+
+.form-signin img {
+  margin: 0 auto;
+}
+
+.form-signin-heading {
+  text-align:center;
+  margin-bottom: 30px;
+}
+
+.form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+}
+
+/* CREATE ACCOUNT - MAIN PAGE */
+/*.create-account {
+	font-size: 40px;
+	padding: 30px 20px;
+	border-radius: 10px;
+	border-bottom: 5px solid #1fa2bf;
+	background-color: rgb(60, 201, 233);
+	display: block;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.create-account-2 {
+	margin-top: 5px;
+	font-size: 40px;
+	padding: 30px 20px;
+	border-radius: 10px;
+	border: 1px solid #1fa2bf;
+	background-color: rgb(255, 255, 255);
+	display: block;
+	color: #3cc9e9;
+	font-weight: bold;
+	text-align: center;
+}*/
+.create-account-3 {
+	margin-top: 5px;
+	font-size: 25px;
+	padding: 30px 20px;
+	border-bottom: 5px solid #1fa2bf;
+	background-color: rgb(60, 201, 233);
+	display: block;
+	color: white;
+	text-align: center;
+	transition: 0.3s;
+}
+.create-account-3:hover {
+	color: rgb(60, 201, 233);
+	background-color: white;
+}

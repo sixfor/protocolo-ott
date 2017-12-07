@@ -1,0 +1,33 @@
+.cont-buscar-requerimiento {
+  margin-bottom: 10px;
+}
+.cont-consulta {
+  background-color: #1ab394;
+  padding: 10px 15px 10px 15px;
+  color: white;
+  box-shadow: 0px 0px 0px rgba(255, 0, 0, 0.5);
+}
+.cont-respuestas {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.mail-respuesta {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #e7fffa;
+}
+.mail-respuesta h5 {
+  padding-left: 15px;
+}
+.mail-footer {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.buttons-respuesta label, .buttons-respuesta input, .buttons-respuesta button{
+  margin-right: 10px;
+}
+.buttons-respuesta form {
+  margin-bottom: 0 !important;
+}
